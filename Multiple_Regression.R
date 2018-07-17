@@ -3,7 +3,7 @@
 
 ### Define a working directory
 # Locate your project directory and use the forward / slash
-setwd("C:/Users/Harshavardhan Koneru/Documents/Multiple Regression")
+setwd("C:/Users/admin/Documents/Multiple Regression")
 getwd()
 
 ##### Read and clean the data and select variables
